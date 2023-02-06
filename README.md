@@ -9,4 +9,4 @@ There are no dependencies for this console game.
 The game is compiled using GHC, but to test it out you can just run the pre-built executable :)
 
 ## Notes
--	Not all code was exclusively written by me; the console based user-interaction and display of the game (last part of the code) was pre-supplied with the assignment itself. The code pertaining to 
+-	Not all code was exclusively written by me; the console based user-interaction and display of the game (last part of the code) was pre-supplied with the assignment itself. The code pertaining to the rose-trees and minimax algorithm (functioning of the unbeatable computer game opponent) are of my own creation.
